@@ -1,0 +1,141 @@
+{
+    "users": [
+      {
+        "id": 1,
+        "num": 100,
+        "name": "المستخدمين الجدد"
+      },
+      {
+        "id": 2,
+        "num": 100,
+        "name": "إجمالي عمليات تسجيل الدخول ؟ التسجيل"
+      },
+      {
+        "id": 3,
+        "num": 65,
+        "name": "معدلات التحويل (من الزوار إلى المسجلين)"
+      }
+    ],
+
+    "Geographic": [
+      {
+        "id": 1,
+        "color":"#48AD6D",
+        "name":"صنعاء",
+        "numb":500.000
+      },
+      {
+        "id": 2,
+        "color":"#FF7262",
+        "name":"صعدة",
+        "numb":1000
+      },
+      {
+        "id": 3,
+        "color":"#F5AB3C",
+        "name":"صنعاء",
+        "numb":700
+      },
+      {
+        "id": 41,
+        "color":"#3C70F5",
+        "name":"عمران",
+        "numb":5000
+      }
+    ],
+    
+    "ProductService":[
+      {
+        "id":1,
+        "code":154545445,
+        "NamePerson":"سهيل عبدالله الحكيمي",
+        "DocumentNumber": 1500,
+        "PhoneNumber":772012847,
+        "NameServers":"الأحوال المدنية",
+        "Status":"تمت العملية بنجاح"
+      },
+      {
+        "id":2,
+        "code":154545445,
+        "NamePerson":"سهيل عبدالله الحكيمي",
+        "DocumentNumber": 1500,
+        "PhoneNumber":772012847,
+        "NameServers":"الأحوال المدنية",
+        "Status":"تم الرفض"
+      },
+      {
+        "id":3,
+        "code":154545445,
+        "NamePerson":"سهيل عبدالله الحكيمي",
+        "DocumentNumber": 1500,
+        "PhoneNumber":772012847,
+        "NameServers":"الأحوال المدنية",
+        "Status":"قيد المراجعة"
+      },
+      {
+        "id":4,
+        "code":154545445,
+        "NamePerson":"سهيل عبدالله الحكيمي",
+        "DocumentNumber": 1500,
+        "PhoneNumber":772012847,
+        "NameServers":"الأحوال المدنية",
+        "Status":"تمت العملية بنجاح"
+      },
+      {
+        "id":5,
+        "code":154545445,
+        "NamePerson":"سهيل عبدالله الحكيمي",
+        "DocumentNumber": 1500,
+        "PhoneNumber":772012847,
+        "NameServers":"الأحوال المدنية",
+        "Status":"تم الرفض"
+      },
+      {
+        "id":6,
+        "code":154545445,
+        "NamePerson":"سهيل عبدالله الحكيمي",
+        "DocumentNumber": 1500,
+        "PhoneNumber":772012847,
+        "NameServers":"الأحوال المدنية",
+        "Status":"تمت العملية بنجاح"
+      },
+      {
+        "id":7,
+        "code":154545445,
+        "NamePerson":"سهيل عبدالله الحكيمي",
+        "DocumentNumber": 1500,
+        "PhoneNumber":772012847,
+        "NameServers":"الأحوال المدنية",
+        "Status":"قيد المراجعة"
+      },
+      {
+        "id":8,
+        "code":154545445,
+        "NamePerson":"سهيل عبدالله الحكيمي",
+        "DocumentNumber": 1500,
+        "PhoneNumber":772012847,
+        "NameServers":"الأحوال المدنية",
+        "Status":"تمت العملية بنجاح"
+      },
+      {
+        "id":9,
+        "code":154545445,
+        "NamePerson":"سهيل عبدالله الحكيمي",
+        "DocumentNumber": 1500,
+        "PhoneNumber":772012847,
+        "NameServers":"الأحوال المدنية",
+        "Status":"تم الرفض"
+      },
+      {
+        "id":10,
+        "code":154545445,
+        "NamePerson":"سهيل عبدالله الحكيمي",
+        "DocumentNumber": 1500,
+        "PhoneNumber":772012847,
+        "NameServers":"الأحوال المدنية",
+        "Status":"قيد المراجعة"
+      }
+    ]
+
+}
+  
